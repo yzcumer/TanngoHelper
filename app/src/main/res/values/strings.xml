@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TanngoHelper</string>
+    <string name="tanngo_word_hint">请输入单词(仅限日语)</string>
+    <string name="tanngo_mena_hint">请输入释意</string>
+    <string name="tanngo_word_label">单词</string>
+    <string name="tanngo_mean_label">释意</string>
+    <string name="tanngo_date_label">日期</string>
+    <string name="tanngo_solved_label">已学习</string>
+    <string name="date_picker_title">请选择记录日期：</string>
+    <string name="new_tanngo">添加单词</string>
+    <string name="tanngo_report_text">分享</string>
+    <string name="tanngo_report">今天学到”%1$s”为止！
+        现在的时间是 %2$s日。%3$s。
+    </string>
+    <string name="tanngo_report_subject">aptx 4869</string>
+    <string name="tanngo_report_solved">这个单词已掌握</string>
+    <string name="tanngo_report_unsolved">这个单词还需学习</string>
+    <string name="send_report">分享至...</string>
+    <string name="speak_button">朗读</string>
+</resources>
